@@ -1,0 +1,26 @@
+!<thin>
+//                                              186       `
+soc-core.o/
+soc-dapm.o/
+soc-jack.o/
+soc-cache.o/
+soc-utils.o/
+soc-pcm.o/
+soc-io.o/
+soc-devres.o/
+soc-ops.o/
+soc-generic-dmaengine-pcm.o/
+sunxi/sun4i-codec.o/
+sunxi/sun8i-codec-analog.o/
+/0              0           0     0     644     63436     `
+/12             0           0     0     644     54140     `
+/24             0           0     0     644     9512      `
+/36             0           0     0     644     1432      `
+/49             0           0     0     644     11264     `
+/62             0           0     0     644     35808     `
+/73             0           0     0     644     6240      `
+/83             0           0     0     644     3900      `
+/97             0           0     0     644     13196     `
+/108            0           0     0     644     6572      `
+/137            0           0     0     644     39000     `
+/158            0           0     0     644     23784     `

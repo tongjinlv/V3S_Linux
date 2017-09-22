@@ -1,0 +1,12 @@
+menu "Sanby Driver "
+comment "Sanby Driver comment"
+
+config SANBY_DRIVER
+	bool "Sanby support"
+
+config LED_RGB_WS2812
+	tristate "Ws2812 Rgb Color Led"
+	depends on SANBY_DRIVER
+	---help---
+                Support for the Ws2812 rgb color led.	
+endmenu

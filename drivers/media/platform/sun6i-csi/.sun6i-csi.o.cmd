@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/sun6i-csi/sun6i-csi.o := arm-linux-gnueabihf-ld -EL    -r -o drivers/media/platform/sun6i-csi/sun6i-csi.o drivers/media/platform/sun6i-csi/sun6i_csi.o drivers/media/platform/sun6i-csi/sun6i_video.o drivers/media/platform/sun6i-csi/sun6i_csi_v3s.o 

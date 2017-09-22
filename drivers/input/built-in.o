@@ -1,0 +1,26 @@
+!<thin>
+//                                              206       `
+input.o/
+input-compat.o/
+input-mt.o/
+ff-core.o/
+input-polldev.o/
+input-leds.o/
+evdev.o/
+keyboard/atkbd.o/
+keyboard/sun4i-lradc-keys.o/
+touchscreen/of_touchscreen.o/
+touchscreen/ns2009.o/
+misc/axp20x-pek.o/
+/0              0           0     0     644     40928     `
+/9              0           0     0     644     2680      `
+/25             0           0     0     644     7492      `
+/37             0           0     0     644     5520      `
+/48            /0           0     0     644     7108      `
+/65             0           0     0     644     5504      `
+/79             0           0     0     644     18104     `
+/88             0           0     0     644     22016     `
+/106            0           0     0     644     6236      `
+/135            0           0     0     644     4332      `
+/165            0           0     0     644     4696      `
+/187            0           0     0     644     7044      `

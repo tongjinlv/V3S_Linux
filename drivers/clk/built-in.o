@@ -1,0 +1,111 @@
+!<thin>
+//                                              1112      `
+clk-devres.o/
+clk-bulk.o/
+clkdev.o/
+clk.o/
+clk-divider.o/
+clk-fixed-factor.o/
+clk-fixed-rate.o/
+clk-gate.o/
+clk-multiplier.o/
+clk-mux.o/
+clk-composite.o/
+clk-fractional-divider.o/
+clk-gpio.o/
+clk-conf.o/
+sunxi/clk-sunxi.o/
+sunxi/clk-factors.o/
+sunxi/clk-a10-codec.o/
+sunxi/clk-a10-hosc.o/
+sunxi/clk-a10-mod1.o/
+sunxi/clk-a10-pll2.o/
+sunxi/clk-a10-ve.o/
+sunxi/clk-a20-gmac.o/
+sunxi/clk-mod0.o/
+sunxi/clk-simple-gates.o/
+sunxi/clk-sun4i-display.o/
+sunxi/clk-sun4i-pll3.o/
+sunxi/clk-sun4i-tcon-ch1.o/
+sunxi/clk-sun8i-bus-gates.o/
+sunxi/clk-sun8i-mbus.o/
+sunxi/clk-sun9i-core.o/
+sunxi/clk-sun9i-mmc.o/
+sunxi/clk-usb.o/
+sunxi/clk-sun6i-ar100.o/
+sunxi/clk-sun6i-apb0.o/
+sunxi/clk-sun6i-apb0-gates.o/
+sunxi/clk-sun8i-apb0.o/
+sunxi-ng/ccu-sun8i-a83t.o/
+sunxi-ng/ccu-sun8i-v3s.o/
+sunxi-ng/ccu-sun8i-de2.o/
+sunxi-ng/ccu-sun8i-r.o/
+sunxi-ng/ccu_common.o/
+sunxi-ng/ccu_div.o/
+sunxi-ng/ccu_frac.o/
+sunxi-ng/ccu_gate.o/
+sunxi-ng/ccu_mp.o/
+sunxi-ng/ccu_mult.o/
+sunxi-ng/ccu_mux.o/
+sunxi-ng/ccu_nk.o/
+sunxi-ng/ccu_nkm.o/
+sunxi-ng/ccu_nkmp.o/
+sunxi-ng/ccu_nm.o/
+sunxi-ng/ccu_phase.o/
+sunxi-ng/ccu_reset.o/
+sunxi-ng/lib-ksyms.o/
+
+/0              0           0     0     644     3704      `
+/14             0           0     0     644     3956      `
+/26             0           0     0     644     9404      `
+/36             0           0     0     644     49524     `
+/43             0           0     0     644     10364     `
+/58             0           0     0     644     8028      `
+/78             0           0     0     644     7456      `
+/96             0           0     0     644     4428      `
+/108            0           0     0     644     2804      `
+/126            0           0     0     644     6044      `
+/137           /0           0     0     644     4920      `
+/154            0           0     0     644     4204      `
+/180            0           0     0     644     8288      `
+/192            0           0     0     644     3820      `
+/204            0           0     0     644     18540     `
+/223            0           0     0     644     4340      `
+/244           /0           0     0     644     2248      `
+/267            0           0     0     644     2688      `
+/289            0           0     0     644     2752      `
+/311            0           0     0     644     4576      `
+/333            0           0     0     644     4156      `
+/353            0           0     0     644     2796      `
+/375            0           0     0     644     8656      `
+/393            0           0     0     644     11000     `
+/419            0           0     0     644     5828      `
+/446            0           0     0     644     3348      `
+/470            0           0     0     644     5464      `
+/498            0           0     0     644     4212      `
+/527            0           0     0     644     3604      `
+/551            0           0     0     644     6676      `
+/575           /0           0     0     644     5408      `
+/598            0           0     0     644     7436      `
+/615            0           0     0     644     3536      `
+/640            0           0     0     644     3436      `
+/664            0           0     0     644     4436      `
+/694            0           0     0     644     4484      `
+/718            0           0     0     644     30216     `
+/745           /0           0     0     644     21948     `
+/771           /0           0     0     644     7836      `
+/797            0           0     0     644     8080      `
+/821            0           0     0     644     3216      `
+/844            0           0     0     644     2976      `
+/864            0           0     0     644     2660      `
+/885            0           0     0     644     2812      `
+/906            0           0     0     644     3336      `
+/925            0           0     0     644     3340      `
+/946            0           0     0     644     4200      `
+/966            0           0     0     644     3060      `
+/985            0           0     0     644     3668      `
+/1005           0           0     0     644     3592      `
+/1026           0           0     0     644     3240      `
+/1045           0           0     0     644     2212      `
+/1067           0           0     0     644     1748      `
+/1089           0           0     0     644     548       `

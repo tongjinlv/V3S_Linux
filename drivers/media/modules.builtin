@@ -1,0 +1,16 @@
+kernel/drivers/media/media.ko
+kernel/drivers/media/i2c/ov5647.ko
+kernel/drivers/media/platform/video-mux.ko
+kernel/drivers/media/platform/soc_camera/soc_camera.ko
+kernel/drivers/media/platform/soc_camera/soc_mediabus.ko
+kernel/drivers/media/platform/soc_camera/soc_camera_platform.ko
+kernel/drivers/media/usb/gspca/gspca_main.ko
+kernel/drivers/media/usb/uvc/uvcvideo.ko
+kernel/drivers/media/v4l2-core/v4l2-fwnode.ko
+kernel/drivers/media/v4l2-core/videodev.ko
+kernel/drivers/media/v4l2-core/v4l2-common.ko
+kernel/drivers/media/v4l2-core/v4l2-dv-timings.ko
+kernel/drivers/media/v4l2-core/videobuf2-core.ko
+kernel/drivers/media/v4l2-core/videobuf2-v4l2.ko
+kernel/drivers/media/v4l2-core/videobuf2-memops.ko
+kernel/drivers/media/v4l2-core/videobuf2-vmalloc.ko

@@ -1,0 +1,1 @@
+cmd_drivers/leds/trigger/built-in.o :=  rm -f drivers/leds/trigger/built-in.o; arm-linux-gnueabihf-ar rcSTPD drivers/leds/trigger/built-in.o drivers/leds/trigger/ledtrig-heartbeat.o drivers/leds/trigger/ledtrig-default-on.o 

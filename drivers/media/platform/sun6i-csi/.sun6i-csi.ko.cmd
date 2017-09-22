@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/sun6i-csi/sun6i-csi.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/media/platform/sun6i-csi/sun6i-csi.ko drivers/media/platform/sun6i-csi/sun6i-csi.o drivers/media/platform/sun6i-csi/sun6i-csi.mod.o ;  true

@@ -1,0 +1,1 @@
+cmd_drivers/thermal/thermal_sys.o := rm -f drivers/thermal/thermal_sys.o; arm-linux-gnueabihf-ar rcSTPD drivers/thermal/thermal_sys.o drivers/thermal/thermal_core.o drivers/thermal/thermal_sysfs.o drivers/thermal/thermal_helpers.o drivers/thermal/thermal_hwmon.o drivers/thermal/of-thermal.o drivers/thermal/step_wise.o drivers/thermal/cpu_cooling.o

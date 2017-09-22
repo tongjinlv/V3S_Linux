@@ -1,0 +1,74 @@
+!<thin>
+//                                              870       `
+i2c/ov5647.o/
+media-device.o/
+media-devnode.o/
+media-entity.o/
+v4l2-core/v4l2-fwnode.o/
+v4l2-core/v4l2-dev.o/
+v4l2-core/v4l2-ioctl.o/
+v4l2-core/v4l2-device.o/
+v4l2-core/v4l2-fh.o/
+v4l2-core/v4l2-event.o/
+v4l2-core/v4l2-ctrls.o/
+v4l2-core/v4l2-subdev.o/
+v4l2-core/v4l2-clk.o/
+v4l2-core/v4l2-async.o/
+v4l2-core/v4l2-mc.o/
+v4l2-core/v4l2-common.o/
+v4l2-core/v4l2-dv-timings.o/
+v4l2-core/videobuf2-core.o/
+v4l2-core/videobuf2-v4l2.o/
+v4l2-core/videobuf2-memops.o/
+v4l2-core/videobuf2-vmalloc.o/
+platform/video-mux.o/
+platform/soc_camera/soc_camera.o/
+platform/soc_camera/soc_mediabus.o/
+platform/soc_camera/soc_camera_platform.o/
+usb/uvc/uvc_driver.o/
+usb/uvc/uvc_queue.o/
+usb/uvc/uvc_v4l2.o/
+usb/uvc/uvc_video.o/
+usb/uvc/uvc_ctrl.o/
+usb/uvc/uvc_status.o/
+usb/uvc/uvc_isight.o/
+usb/uvc/uvc_debugfs.o/
+usb/uvc/uvc_entity.o/
+usb/gspca/gspca.o/
+usb/gspca/autogain_functions.o/
+/0              0           0     0     644     9284      `
+/14             0           0     0     644     12856     `
+/30            /0           0     0     644     6676      `
+/47             0           0     0     644     18260     `
+/63             0           0     0     644     6768      `
+/88             0           0     0     644     20092     `
+/110            0           0     0     644     63276     `
+/134            0           0     0     644     7148      `
+/159            0           0     0     644     4604      `
+/180            0           0     0     644     8560      `
+/204            0           0     0     644     73780     `
+/228            0           0     0     644     9584      `
+/253            0           0     0     644     8688      `
+/275            0           0     0     644     6752      `
+/299            0           0     0     644     5956      `
+/320            0           0     0     644     8148      `
+/345            0           0     0     644     26636     `
+/374            0           0     0     644     52152     `
+/402            0           0     0     644     21160     `
+/430            0           0     0     644     2964      `
+/460            0           0     0     644     8152      `
+/491            0           0     0     644     7856      `
+/513            0           0     0     644     27824     `
+/547            0           0     0     644     7040      `
+/583            0           0     0     644     4840      `
+/626            0           0     0     644     33720     `
+/648            0           0     0     644     5840      `
+/669            0           0     0     644     15348     `
+/689            0           0     0     644     18900     `
+/710            0           0     0     644     20848     `
+/730            0           0     0     644     4596      `
+/752            0           0     0     644     2484      `
+/774            0           0     0     644     3508      `
+/797            0           0     0     644     2436      `
+/819            0           0     0     644     31828     `
+/838            0           0     0     644     3880      `

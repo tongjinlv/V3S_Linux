@@ -1,0 +1,2 @@
+kernel/drivers/media/v4l2-core/videobuf2-dma-contig.ko
+kernel/drivers/media/platform/sun6i-csi/sun6i-csi.ko

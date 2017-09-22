@@ -1,0 +1,1 @@
+cmd_drivers/gpu/drm/sun4i/sun4i-tcon.o := rm -f drivers/gpu/drm/sun4i/sun4i-tcon.o; arm-linux-gnueabihf-ar rcSTPD drivers/gpu/drm/sun4i/sun4i-tcon.o drivers/gpu/drm/sun4i/sun4i_tcon.o drivers/gpu/drm/sun4i/sun4i_rgb.o drivers/gpu/drm/sun4i/sun4i_dotclock.o drivers/gpu/drm/sun4i/sun4i_crtc.o

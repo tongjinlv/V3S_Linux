@@ -1,0 +1,1 @@
+cmd_drivers/spi/built-in.o :=  rm -f drivers/spi/built-in.o; arm-linux-gnueabihf-ar rcSTPD drivers/spi/built-in.o drivers/spi/spi.o drivers/spi/spi-bitbang.o drivers/spi/spi-gpio.o drivers/spi/spi-sun6i.o 

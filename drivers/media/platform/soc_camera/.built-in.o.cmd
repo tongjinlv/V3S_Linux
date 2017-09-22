@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/soc_camera/built-in.o :=  rm -f drivers/media/platform/soc_camera/built-in.o; arm-linux-gnueabihf-ar rcSTPD drivers/media/platform/soc_camera/built-in.o drivers/media/platform/soc_camera/soc_camera.o drivers/media/platform/soc_camera/soc_mediabus.o drivers/media/platform/soc_camera/soc_camera_platform.o 

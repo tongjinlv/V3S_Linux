@@ -1,0 +1,80 @@
+!<thin>
+//                                              476       `
+elf.o/
+entry-common.o/
+irq.o/
+opcodes.o/
+process.o/
+ptrace.o/
+reboot.o/
+return_address.o/
+setup.o/
+signal.o/
+sigreturn_codes.o/
+stacktrace.o/
+sys_arm.o/
+time.o/
+traps.o/
+atags_parse.o/
+entry-armv.o/
+armksyms.o/
+module.o/
+sleep.o/
+suspend.o/
+smp.o/
+smp_tlb.o/
+arch_timer.o/
+unwind.o/
+devtree.o/
+swp_emulate.o/
+hw_breakpoint.o/
+perf_regs.o/
+perf_callchain.o/
+perf_event_xscale.o/
+perf_event_v6.o/
+perf_event_v7.o/
+topology.o/
+vdso.o/
+io.o/
+hyp-stub.o/
+psci_smp.o/
+smccc-call.o/
+/0              0           0     0     644     2616      `
+/7              0           0     0     644     17752     `
+/23             0           0     0     644     4396      `
+/30             0           0     0     644     1708      `
+/41             0           0     0     644     8776      `
+/52             0           0     0     644     10148     `
+/62             0           0     0     644     3676      `
+/72             0           0     0     644     1440      `
+/90             0           0     0     644     24112     `
+/99             0           0     0     644     9140      `
+/109            0           0     0     644     760       `
+/128            0           0     0     644     1560      `
+/142            0           0     0     644     1220      `
+/153            0           0     0     644     2788      `
+/161            0           0     0     644     13836     `
+/170            0           0     0     644     5296      `
+/185            0           0     0     644     8172      `
+/199            0           0     0     644     19148     `
+/211            0           0     0     644     5268      `
+/221            0           0     0     644     1956      `
+/230            0           0     0     644     2892      `
+/241            0           0     0     644     13300     `
+/248            0           0     0     644     3640      `
+/259            0           0     0     644     1920      `
+/273            0           0     0     644     6440      `
+/283            0           0     0     644     5700      `
+/294            0           0     0     644     5136      `
+/309           /0           0     0     644     15380     `
+/326            0           0     0     644     1852      `
+/339            0           0     0     644     2372      `
+/357            0           0     0     644     796       `
+/378           /0           0     0     644     792       `
+/395           /0           0     0     644     25000     `
+/412            0           0     0     644     5400      `
+/424            0           0     0     644     12160     `
+/432            0           0     0     644     3232      `
+/438            0           0     0     644     1792      `
+/450            0           0     0     644     3236      `
+/462            0           0     0     644     1036      `

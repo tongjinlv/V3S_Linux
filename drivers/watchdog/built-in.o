@@ -1,0 +1,8 @@
+!<thin>
+//                                              46        `
+watchdog_core.o/
+watchdog_dev.o/
+sunxi_wdt.o/
+/0             /0           0     0     644     8064      `
+/17             0           0     0     644     12212     `
+/33             0           0     0     644     6724      `

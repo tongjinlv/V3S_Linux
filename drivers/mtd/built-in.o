@@ -1,0 +1,20 @@
+!<thin>
+//                                              122       `
+mtdcore.o/
+mtdsuper.o/
+mtdconcat.o/
+mtdpart.o/
+mtdchar.o/
+ofpart.o/
+chips/chipreg.o/
+devices/m25p80.o/
+spi-nor/spi-nor.o/
+/0              0           0     0     644     33740     `
+/11             0           0     0     644     3492      `
+/23             0           0     0     644     11420     `
+/36             0           0     0     644     15700     `
+/47             0           0     0     644     13920     `
+/58             0           0     0     644     5368      `
+/68             0           0     0     644     3884      `
+/85             0           0     0     644     8204      `
+/103            0           0     0     644     21268     `

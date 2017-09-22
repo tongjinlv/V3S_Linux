@@ -1,0 +1,1 @@
+cmd_drivers/gpu/drm/sun4i/sun8i-mixer.o := rm -f drivers/gpu/drm/sun4i/sun8i-mixer.o; arm-linux-gnueabihf-ar rcSTPD drivers/gpu/drm/sun4i/sun8i-mixer.o drivers/gpu/drm/sun4i/sun8i_mixer.o drivers/gpu/drm/sun4i/sun8i_layer.o

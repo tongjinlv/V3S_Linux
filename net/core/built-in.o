@@ -1,0 +1,61 @@
+!<thin>
+//                                              372       `
+sock.o/
+request_sock.o/
+skbuff.o/
+datagram.o/
+stream.o/
+scm.o/
+gen_stats.o/
+gen_estimator.o/
+net_namespace.o/
+secure_seq.o/
+flow_dissector.o/
+sysctl_net_core.o/
+dev.o/
+ethtool.o/
+dev_addr_lists.o/
+dst.o/
+netevent.o/
+neighbour.o/
+rtnetlink.o/
+utils.o/
+link_watch.o/
+filter.o/
+sock_diag.o/
+dev_ioctl.o/
+tso.o/
+sock_reuseport.o/
+net-sysfs.o/
+net-procfs.o/
+ptp_classifier.o/
+
+/0              0           0     0     644     61740     `
+/8              0           0     0     644     2428      `
+/24             0           0     0     644     70720     `
+/34             0           0     0     644     13516     `
+/46             0           0     0     644     6032      `
+/56             0           0     0     644     5840      `
+/63             0           0     0     644     6276      `
+/76            /0           0     0     644     4500      `
+/93            /0           0     0     644     20100     `
+/110            0           0     0     644     3008      `
+/124            0           0     0     644     17048     `
+/142            0           0     0     644     11040     `
+/161            0           0     0     644     131616    `
+/168            0           0     0     644     38448     `
+/179            0           0     0     644     15260     `
+/197            0           0     0     644     9136      `
+/204            0           0     0     644     2548      `
+/216            0           0     0     644     50464     `
+/229            0           0     0     644     52284     `
+/242            0           0     0     644     7216      `
+/251            0           0     0     644     5012      `
+/265            0           0     0     644     52612     `
+/275            0           0     0     644     10140     `
+/288            0           0     0     644     8060      `
+/301            0           0     0     644     3412      `
+/308            0           0     0     644     5260      `
+/326            0           0     0     644     31792     `
+/339            0           0     0     644     8980      `
+/353            0           0     0     644     3292      `

@@ -1,0 +1,9 @@
+!<thin>
+//                                              54        `
+soc_camera.o/
+soc_mediabus.o/
+soc_camera_platform.o/
+
+/0              0           0     0     644     27824     `
+/14             0           0     0     644     7040      `
+/30             0           0     0     644     4840      `

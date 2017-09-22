@@ -1,0 +1,9 @@
+!<thin>
+//                                              86        `
+supply/power_supply_core.o/
+supply/power_supply_sysfs.o/
+supply/power_supply_leds.o/
+
+/0              0           0     0     644     21632     `
+/28             0           0     0     644     10328     `
+/57             0           0     0     644     2916      `

@@ -1,0 +1,9 @@
+!<thin>
+//                                              64        `
+sun4i_hdmi_enc.o/
+sun4i_hdmi_ddc_clk.o/
+sun4i_hdmi_tmds_clk.o/
+
+/0              0           0     0     644     10864     `
+/18             0           0     0     644     2484      `
+/40             0           0     0     644     3124      `

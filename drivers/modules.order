@@ -1,0 +1,5 @@
+kernel/drivers/video/backlight/lcd.ko
+kernel/drivers/media/v4l2-core/videobuf2-dma-contig.ko
+kernel/drivers/media/platform/sun6i-csi/sun6i-csi.ko
+kernel/drivers/staging/rtl8723bs/r8723bs.ko
+kernel/drivers/ws2812/ws2812.ko

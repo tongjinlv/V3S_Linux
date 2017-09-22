@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/built-in.o :=  rm -f drivers/input/touchscreen/built-in.o; arm-linux-gnueabihf-ar rcSTPD drivers/input/touchscreen/built-in.o drivers/input/touchscreen/of_touchscreen.o drivers/input/touchscreen/ns2009.o 

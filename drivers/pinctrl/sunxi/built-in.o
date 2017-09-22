@@ -1,0 +1,21 @@
+!<thin>
+//                                              192       `
+pinctrl-sunxi.o/
+pinctrl-sun8i-a23.o/
+pinctrl-sun8i-a23-r.o/
+pinctrl-sun8i-a33.o/
+pinctrl-sun8i-a83t.o/
+pinctrl-sun8i-a83t-r.o/
+pinctrl-sun8i-h3.o/
+pinctrl-sun8i-h3-r.o/
+pinctrl-sun8i-v3s.o/
+
+/0             /0           0     0     644     17784     `
+/17             0           0     0     644     21636     `
+/38             0           0     0     644     5488      `
+/61             0           0     0     644     18964     `
+/82             0           0     0     644     21696     `
+/104            0           0     0     644     5312      `
+/128            0           0     0     644     19060     `
+/148            0           0     0     644     5052      `
+/170            0           0     0     644     12048     `

@@ -1,0 +1,3 @@
+kernel/drivers/usb/gadget/libcomposite.ko
+kernel/drivers/usb/gadget/function/usb_f_uvc.ko
+kernel/drivers/usb/gadget/udc/udc-core.ko

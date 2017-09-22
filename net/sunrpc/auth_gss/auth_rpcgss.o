@@ -1,0 +1,14 @@
+!<thin>
+//                                              100       `
+auth_gss.o/
+gss_generic_token.o/
+gss_mech_switch.o/
+svcauth_gss.o/
+gss_rpc_upcall.o/
+gss_rpc_xdr.o/
+/0              0           0     0     644     26328     `
+/12             0           0     0     644     2888      `
+/33             0           0     0     644     7840      `
+/52             0           0     0     644     21576     `
+/67             0           0     0     644     5752      `
+/85             0           0     0     644     6196      `

@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/stmicro/stmmac/stmmac-platform.o := rm -f drivers/net/ethernet/stmicro/stmmac/stmmac-platform.o; arm-linux-gnueabihf-ar rcSTPD drivers/net/ethernet/stmicro/stmmac/stmmac-platform.o drivers/net/ethernet/stmicro/stmmac/stmmac_platform.o

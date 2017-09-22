@@ -1,0 +1,32 @@
+!<thin>
+//                                              324       `
+core.o/
+pinctrl-utils.o/
+pinmux.o/
+pinconf.o/
+devicetree.o/
+pinconf-generic.o/
+sunxi/pinctrl-sunxi.o/
+sunxi/pinctrl-sun8i-a23.o/
+sunxi/pinctrl-sun8i-a23-r.o/
+sunxi/pinctrl-sun8i-a33.o/
+sunxi/pinctrl-sun8i-a83t.o/
+sunxi/pinctrl-sun8i-a83t-r.o/
+sunxi/pinctrl-sun8i-h3.o/
+sunxi/pinctrl-sun8i-h3-r.o/
+sunxi/pinctrl-sun8i-v3s.o/
+/0              0           0     0     644     35692     `
+/8             /0           0     0     644     4180      `
+/25             0           0     0     644     10880     `
+/35             0           0     0     644     10424     `
+/46             0           0     0     644     5284      `
+/60             0           0     0     644     8640      `
+/79            /0           0     0     644     17784     `
+/102            0           0     0     644     21636     `
+/129            0           0     0     644     5488      `
+/158            0           0     0     644     18964     `
+/185            0           0     0     644     21696     `
+/213            0           0     0     644     5312      `
+/243            0           0     0     644     19060     `
+/269            0           0     0     644     5052      `
+/297            0           0     0     644     12048     `
